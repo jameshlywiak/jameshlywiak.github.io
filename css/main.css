@@ -4,6 +4,8 @@ body {
 }
 nav ul, footer ul {
     font-family:'Monserrat', 'Sans-Serif';
+    width: 100%;
+    height: 20px;
     list-style: none;
     font-weight: bold;
 }
@@ -11,6 +13,7 @@ nav ul li, footer ul li {
     display: inline;
     padding-left:30px;
     padding-right:30px;
+    font-size: 2.0em;
 }
 a {
     text-decoration: none;
