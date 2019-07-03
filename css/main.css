@@ -10,9 +10,8 @@ nav ul, footer ul {
     list-style: none;
 }
 nav ul li, footer ul li {
+    font-family:'Monserrat', 'Sans-Serif';
     display: inline;
-    padding-left:30px;
-    padding-right:30px;
     font-size: 1.4em;
 }
 a {
