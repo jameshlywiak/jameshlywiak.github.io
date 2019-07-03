@@ -4,7 +4,7 @@ body {
     background-color: powderblue;
 }
 .jumbotron {
-    background-image: ./figures/wetlab.jpg;
+    background-image: url("/figures/wetlab.jpg");
     margin-bottom:0px;
     margin-top:0px;
 }
