@@ -3,6 +3,10 @@ body {
     width: 100%;
     background-color: powderblue;
 }
+jumbotron{
+    margin-bottom:0px;
+    margin-top:0px;
+}
 nav ul, footer ul {
     font-family:'Monserrat', 'Sans-Serif';
     width: 100%;
