@@ -21,7 +21,7 @@ a {
 }
 a:hover {
 }
-h1 {
+h {
     font-size: 3em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
@@ -29,6 +29,7 @@ p {
     font-size: 1.5em;
     line-height: 1.4em;
     color: #333;
+    margin: 20px;
 }
 footer {
     border-top: 1px solid #d5d5d5;
