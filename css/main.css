@@ -2,6 +2,8 @@ body {
     margin: 60px auto;
     width: 100%;
     background-color: powderblue;
+    padding-top:0px;
+    margin-top:0px
 }
 .jumbotron {
     background-image: url("/figures/wetlab2.jpg");
