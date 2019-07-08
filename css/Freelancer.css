@@ -11028,7 +11028,6 @@
  }
  
  .masthead {
-     display: table-cell;
      padding-top: calc(6rem + 104px);
      padding-bottom: calc(6rem + 104px);
      background-image: url("/img/wetlab.jpg");
@@ -11036,15 +11035,15 @@
      background-size: cover;
      background-attachment: fixed;
      background-position: center;
-     vertical-align: middle;
-     text-align: center;
+     display: flex;
+     justify-content: center;
+     align-items: center; 
  }
  
  .masthead .masthead-heading {
      font-size: 2.75rem;
      line-height: 2.75rem;
      text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
-     display: inline-block;
  }
  
  .masthead .masthead-subheading {
