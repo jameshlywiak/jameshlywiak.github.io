@@ -11028,8 +11028,8 @@
  }
  
  .masthead {
-     padding-top: calc(6rem + 72px);
-     padding-bottom: calc(6rem + 72px);
+     padding-top: calc(6rem + 104px);
+     padding-bottom: calc(6rem + 104px);
      background-image: url("/img/wetlab.jpg");
      background-repeat: no-repeat;
      background-size: cover;
