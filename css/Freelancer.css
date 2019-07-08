@@ -11029,7 +11029,7 @@
  
  .masthead {
      padding-top: calc(6rem + 72px);
-     padding-bottom: 6rem;
+     padding-bottom: calc(6rem + 72px);
      background-image: url("/img/wetlab.jpg");
      background-repeat: no-repeat;
      background-size: cover;
