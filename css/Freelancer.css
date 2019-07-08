@@ -11028,6 +11028,7 @@
  }
  
  .masthead {
+     display: table-cell;
      padding-top: calc(6rem + 104px);
      padding-bottom: calc(6rem + 104px);
      background-image: url("/img/wetlab.jpg");
